@@ -27,9 +27,10 @@ End the program and close the output video window by pressing 'q'.
 
 ## Program:
 ``` Python
-## Experiment 1 - Image_Acqusition-_using_Web_Camera
- ## Name: AANKARSH.J
- ## Register Number: 212223233001
+## Exp 2 - Image_Acqusition-_using_Web_Camera ##
+## Name: AANKARSH.J ##
+## Register Number: 212223233001 ##
+
 
 ## i) Write the frame as JPG file
 import cv2
